@@ -5,4 +5,4 @@ Then, install in node.js: npm install discord.js and create index.js, package.js
 Once that's done, go back and install the server.mb file.
 Make sure that the server.mb file doesn't remain as .txt ⚠️
 For Python, you need 3.12. Download Python 3.12 at python.org. Thank you.
-For Java, you need Java 21 LTS in or Java 17 LTS. Downolad Java 21 LTS at https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html. Select on .msi
+For Java, you need  Java 17 LTS. Downolad Java 17 LTS at https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html. Select on .msi
